@@ -1,2 +1,2 @@
 # FCFS
-Ghasemi university classmate FCFS (First Come First Service) algorithm Python implementation
+Educational Purpose FCFS (First Come First Serve) Scheduling Algorithm Python Implementation
